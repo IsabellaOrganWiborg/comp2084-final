@@ -182,6 +182,8 @@
     <Content Include="Img\wild.gif" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\Comp2084FinalExamIsabellaOrWiborg - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\FinalExamIsabellaOrWiborg - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
